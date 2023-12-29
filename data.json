@@ -1,0 +1,19 @@
+[
+  { "rid": 1, "rname": "dev", "rtype": "folder", "pid": -1 },
+  { "rid": 2, "rname": "kushal", "rtype": "folder", "pid": -1 },
+  {
+    "rid": 3,
+    "rname": "abbas",
+    "rtype": "text-file",
+    "pid": -1,
+    "isBold": true,
+    "isItalic": false,
+    "isUnderline": false,
+    "bgColor": "#000000",
+    "textColor": "#ffffff",
+    "fontFamily": "cursive",
+    "fontSize": "22",
+    "content": "helllo"
+  },
+  { "rid": 4, "rname": "adnan", "rtype": "album", "pid": -1 }
+]
