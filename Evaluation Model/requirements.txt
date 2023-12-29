@@ -1,5 +1,0 @@
-flask
-easyocr
-autocorrect
-opencv-python
-numpy
