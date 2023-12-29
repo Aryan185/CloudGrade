@@ -1,0 +1,2 @@
+Once again you could see a plus sign in the code; it indicates that it will create a new file fit does not exist. But
+in our case we already have the file; so we are not required to create a new file for Python append to file operation.
